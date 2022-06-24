@@ -1,0 +1,8 @@
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\FPTCodeChallenge.exe
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\FPTCodeChallenge.dll
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\FPTCodeChallenge.deps.json
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\FPTCodeChallenge.runtimeconfig.json
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\FPTCodeChallenge.pdb
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\Newtonsoft.Json.dll
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\RestSharp.dll
+C:\Users\Castrodes\Desktop\remittance_06212022\exe\System.Text.Json.dll

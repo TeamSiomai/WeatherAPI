@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WSzxpeyZ3bo678gPGVkQShhvdqceAejUqodD7PJNC0eat9PTqICrMKxGpUxWWa19LDOPD93abztRsD071ta91A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Castrodes\\Desktop\\remittance_06212022\\exe\\SourceCode_06252022\\FPTCodeChallenge\\FPTCodeChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Castrodes\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Castrodes\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\Castrodes\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

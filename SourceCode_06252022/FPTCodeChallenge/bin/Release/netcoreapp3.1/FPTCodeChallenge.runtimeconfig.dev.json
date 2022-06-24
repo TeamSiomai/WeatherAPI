@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Castrodes\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Castrodes\\.nuget\\packages"
+    ]
+  }
+}
